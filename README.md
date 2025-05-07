@@ -22,5 +22,3 @@ Given the previous shots in a rally (shot type, direction, error indicators, etc
 | Original MCP Dataset | [Github JeffSackmann - Tennis Match Charting Data](https://github.com/JeffSackmann/tennis_MatchChartingProject/tree/master) |
 | Preprocessed Dataset | [Google Drive - Processed Dataset](https://drive.google.com/file/d/16IH03soaKK15gvOO4t84ohCP-n2abCYV/view?usp=sharing) |
 | Inference Sample Dataset | [Google Drive - Inference Inputs](https://drive.google.com/file/d/1EB6Kaj3_6Tr9aeONPNC4zjSQFAfsssej/view?usp=sharing) |
-| Trained Model Weights | [Google Drive - Model Weights](https://drive.google.com/drive/folders/1-axM7YNnGubjN6nQ-ksMdJ8vCOqOlvPf?usp=sharing) |
-
