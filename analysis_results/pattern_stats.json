@@ -1,0 +1,438 @@
+{
+  "topServePlusOnePatterns": {
+    "4-b": 155644,
+    "4-f": 139160,
+    "6-b": 117926,
+    "6-f": 107570,
+    "5-b": 98362,
+    "5-f": 70528,
+    "4-s": 48804,
+    "6-s": 47467,
+    "4-r": 18198,
+    "6-r": 15619,
+    "5-s": 15262,
+    "5-r": 5574,
+    "6-m": 1478,
+    "4-m": 1433,
+    "4-q": 932,
+    "4-l": 518,
+    "6-l": 485,
+    "0-q": 332,
+    "4-y": 229,
+    "6-q": 192
+  },
+  "topRallySequences": {
+    "f-f-f": 231975,
+    "b-f-f": 176089,
+    "b-b-b": 158952,
+    "f-f-b": 157143,
+    "f-b-f": 154312,
+    "b-f-b": 144273,
+    "b-b-f": 131051,
+    "f-b-b": 121766,
+    "f-f-s": 46709,
+    "f-s-f": 45965,
+    "s-f-f": 42500,
+    "b-s-f": 39720,
+    "f-b-s": 37545,
+    "s-f-b": 34497,
+    "b-b-s": 26518,
+    "b-f-s": 26370,
+    "b-s-b": 24853,
+    "s-f-s": 20121,
+    "s-b-b": 19816,
+    "f-s-b": 19516
+  },
+  "outcomeByServePlusOne": {
+    "4-b": {
+      "Unforced Error": 57470,
+      "Winner": 43918,
+      "Forced Error": 54181,
+      "Unknown": 75
+    },
+    "5-f": {
+      "Unforced Error": 32074,
+      "Winner": 17608,
+      "Forced Error": 20801,
+      "Unknown": 45
+    },
+    "4-r": {
+      "Forced Error": 7540,
+      "Winner": 6164,
+      "Unforced Error": 4491,
+      "Unknown": 3
+    },
+    "4-f": {
+      "Unforced Error": 43058,
+      "Forced Error": 57925,
+      "Winner": 38118,
+      "Unknown": 59
+    },
+    "6-f": {
+      "Forced Error": 42602,
+      "Winner": 26240,
+      "Unforced Error": 38658,
+      "Unknown": 70
+    },
+    "5-s": {
+      "Winner": 4438,
+      "Forced Error": 4866,
+      "Unforced Error": 5954,
+      "Unknown": 4
+    },
+    "6-b": {
+      "Forced Error": 39536,
+      "Unforced Error": 46906,
+      "Winner": 31411,
+      "Unknown": 73
+    },
+    "5-b": {
+      "Unforced Error": 44171,
+      "Forced Error": 29629,
+      "Winner": 24492,
+      "Unknown": 70
+    },
+    "4-s": {
+      "Forced Error": 20189,
+      "Winner": 16109,
+      "Unforced Error": 12490,
+      "Unknown": 16
+    },
+    "6-s": {
+      "Forced Error": 20665,
+      "Winner": 14861,
+      "Unforced Error": 11922,
+      "Unknown": 19
+    },
+    "5-r": {
+      "Unforced Error": 1828,
+      "Winner": 1747,
+      "Forced Error": 1994,
+      "Unknown": 5
+    },
+    "6-r": {
+      "Unforced Error": 4306,
+      "Forced Error": 6337,
+      "Winner": 4967,
+      "Unknown": 9
+    },
+    "6-m": {
+      "Winner": 679,
+      "Forced Error": 615,
+      "Unforced Error": 184
+    },
+    "4-m": {
+      "Winner": 689,
+      "Unforced Error": 182,
+      "Forced Error": 561,
+      "Unknown": 1
+    },
+    "6-u": {
+      "Winner": 13,
+      "Unforced Error": 6,
+      "Forced Error": 4
+    },
+    "4-l": {
+      "Winner": 272,
+      "Unforced Error": 53,
+      "Forced Error": 193
+    },
+    "6-l": {
+      "Forced Error": 201,
+      "Unforced Error": 71,
+      "Winner": 213
+    },
+    "0-q": {
+      "Unforced Error": 89,
+      "Winner": 83,
+      "Forced Error": 160
+    },
+    "5-y": {
+      "Unforced Error": 29,
+      "Winner": 65,
+      "Forced Error": 32
+    },
+    "4-q": {
+      "Winner": 298,
+      "Forced Error": 335,
+      "Unforced Error": 299
+    },
+    "5-q": {
+      "Unforced Error": 97,
+      "Forced Error": 42,
+      "Winner": 51
+    },
+    "6-y": {
+      "Winner": 57,
+      "Unforced Error": 24,
+      "Forced Error": 28,
+      "Unknown": 1
+    },
+    "5-l": {
+      "Forced Error": 20,
+      "Winner": 28,
+      "Unforced Error": 10
+    },
+    "6-q": {
+      "Winner": 56,
+      "Forced Error": 82,
+      "Unforced Error": 54
+    },
+    "4-u": {
+      "Winner": 26,
+      "Forced Error": 12,
+      "Unforced Error": 5
+    },
+    "4-y": {
+      "Forced Error": 49,
+      "Winner": 127,
+      "Unforced Error": 53
+    },
+    "5-u": {
+      "Winner": 21,
+      "Unforced Error": 10,
+      "Forced Error": 10
+    },
+    "4-i": {
+      "Forced Error": 9,
+      "Winner": 12,
+      "Unforced Error": 9
+    },
+    "6-t": {
+      "Forced Error": 1,
+      "Unforced Error": 1,
+      "Winner": 1
+    },
+    "5-m": {
+      "Unforced Error": 19,
+      "Forced Error": 30,
+      "Winner": 52
+    },
+    "6-i": {
+      "Winner": 11,
+      "Unforced Error": 10,
+      "Forced Error": 5
+    },
+    "4-h": {
+      "Unforced Error": 2,
+      "Winner": 3,
+      "Forced Error": 4
+    },
+    "5-t": {
+      "Winner": 2,
+      "Forced Error": 1
+    },
+    "4-v": {
+      "Forced Error": 3,
+      "Unforced Error": 3,
+      "Winner": 1
+    },
+    "5-h": {
+      "Unforced Error": 2,
+      "Winner": 1
+    },
+    "0-b": {
+      "Forced Error": 7,
+      "Unforced Error": 5,
+      "Winner": 3
+    },
+    "0-s": {
+      "Winner": 1,
+      "Forced Error": 2
+    },
+    "4-t": {
+      "Winner": 3,
+      "Forced Error": 4,
+      "Unforced Error": 1
+    },
+    "5-v": {
+      "Unforced Error": 2
+    },
+    "5-i": {
+      "Forced Error": 3,
+      "Winner": 2
+    },
+    "6-o": {
+      "Forced Error": 2,
+      "Winner": 1
+    },
+    "6-h": {
+      "Forced Error": 2,
+      "Winner": 1
+    },
+    "6-v": {
+      "Winner": 4,
+      "Unforced Error": 3,
+      "Forced Error": 1
+    },
+    "0-f": {
+      "Forced Error": 4,
+      "Unforced Error": 3
+    },
+    "4-o": {
+      "Forced Error": 1
+    },
+    "6-z": {
+      "Forced Error": 1
+    },
+    "g-b": {
+      "Forced Error": 1
+    },
+    "4-z": {
+      "Forced Error": 1
+    },
+    "5-z": {
+      "Unforced Error": 1
+    }
+  },
+  "patternWinRates": {
+    "4-b": {
+      "total": 155644,
+      "winRate": "60.52%"
+    },
+    "5-f": {
+      "total": 70528,
+      "winRate": "55.56%"
+    },
+    "4-r": {
+      "total": 18198,
+      "winRate": "72.35%"
+    },
+    "4-f": {
+      "total": 139160,
+      "winRate": "63.69%"
+    },
+    "6-f": {
+      "total": 107570,
+      "winRate": "61.63%"
+    },
+    "5-s": {
+      "total": 15262,
+      "winRate": "61.89%"
+    },
+    "6-b": {
+      "total": 117926,
+      "winRate": "59.91%"
+    },
+    "5-b": {
+      "total": 98362,
+      "winRate": "57.41%"
+    },
+    "4-s": {
+      "total": 48804,
+      "winRate": "71.56%"
+    },
+    "6-s": {
+      "total": 47467,
+      "winRate": "72.24%"
+    },
+    "5-r": {
+      "total": 5574,
+      "winRate": "66.74%"
+    },
+    "6-r": {
+      "total": 15619,
+      "winRate": "70.52%"
+    },
+    "6-m": {
+      "total": 1478,
+      "winRate": "84.98%"
+    },
+    "4-m": {
+      "total": 1433,
+      "winRate": "82.21%"
+    },
+    "6-u": {
+      "total": 23,
+      "winRate": "56.52%"
+    },
+    "4-l": {
+      "total": 518,
+      "winRate": "83.78%"
+    },
+    "6-l": {
+      "total": 485,
+      "winRate": "82.06%"
+    },
+    "0-q": {
+      "total": 332,
+      "winRate": "62.05%"
+    },
+    "5-y": {
+      "total": 126,
+      "winRate": "53.17%"
+    },
+    "4-q": {
+      "total": 932,
+      "winRate": "66.31%"
+    },
+    "5-q": {
+      "total": 190,
+      "winRate": "56.84%"
+    },
+    "6-y": {
+      "total": 110,
+      "winRate": "57.27%"
+    },
+    "5-l": {
+      "total": 58,
+      "winRate": "75.86%"
+    },
+    "6-q": {
+      "total": 192,
+      "winRate": "72.40%"
+    },
+    "4-u": {
+      "total": 43,
+      "winRate": "60.47%"
+    },
+    "4-y": {
+      "total": 229,
+      "winRate": "57.64%"
+    },
+    "5-u": {
+      "total": 41,
+      "winRate": "60.98%"
+    },
+    "4-i": {
+      "total": 30,
+      "winRate": "66.67%"
+    },
+    "5-m": {
+      "total": 101,
+      "winRate": "81.19%"
+    },
+    "6-i": {
+      "total": 26,
+      "winRate": "50.00%"
+    },
+    "4-h": {
+      "total": 9,
+      "winRate": "66.67%"
+    },
+    "4-v": {
+      "total": 7,
+      "winRate": "85.71%"
+    },
+    "0-b": {
+      "total": 15,
+      "winRate": "60.00%"
+    },
+    "4-t": {
+      "total": 8,
+      "winRate": "87.50%"
+    },
+    "5-i": {
+      "total": 5,
+      "winRate": "100.00%"
+    },
+    "6-v": {
+      "total": 8,
+      "winRate": "37.50%"
+    },
+    "0-f": {
+      "total": 7,
+      "winRate": "71.43%"
+    }
+  }
+}

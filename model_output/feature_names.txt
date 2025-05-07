@@ -1,0 +1,495 @@
+tournament_ATP Cup
+tournament_Acapulco
+tournament_Adelaide
+tournament_Aix En Provence
+tournament_Alicante
+tournament_Alkmaar
+tournament_Almaty
+tournament_Alphen Aan Den Rijn
+tournament_Amersfoort
+tournament_Amsterdam
+tournament_Andria
+tournament_Anning
+tournament_Antalya
+tournament_Antofagasta
+tournament_Antwerp
+tournament_Astana
+tournament_Asuncion
+tournament_Atlanta
+tournament_Auckland
+tournament_Australian Open
+tournament_Australian Open Juniors
+tournament_Bangkok
+tournament_Banja Luka
+tournament_Barcelona
+tournament_Barletta
+tournament_Basel
+tournament_Bastad
+tournament_Beijing
+tournament_Belgrade
+tournament_Bergamo
+tournament_Biella
+tournament_Blois
+tournament_Bloomfield Hills
+tournament_Bogota
+tournament_Bordeaux
+tournament_Bratislava
+tournament_Bratislava 2
+tournament_Braunschweig
+tournament_Brazzaville
+tournament_Brescia
+tournament_Brest
+tournament_Brisbane
+tournament_Brussels
+tournament_Bucharest
+tournament_Budapest
+tournament_Buenos Aires
+tournament_Burnie
+tournament_Busan
+tournament_Cagliari
+tournament_Cali
+tournament_Campinas
+tournament_Canada Masters
+tournament_Canberra
+tournament_Casablanca
+tournament_Champaign
+tournament_Charlottesville
+tournament_Chengdu
+tournament_Chennai
+tournament_Cherbourg
+tournament_Chicago
+tournament_Cincinnati
+tournament_Cincinnati Masters
+tournament_Cleveland
+tournament_Cologne
+tournament_Columbus
+tournament_Cordenons
+tournament_Cordoba
+tournament_Corrientes
+tournament_Curitiba
+tournament_Dallas
+tournament_Dallas WCT
+tournament_Davis Cup
+tournament_Delray Beach
+tournament_Dobrich
+tournament_Doha
+tournament_Doha EXH
+tournament_Drummondville
+tournament_Dubai
+tournament_Dusseldorf
+tournament_Dutch Championships
+tournament_Eastbourne
+tournament_Eckental
+tournament_Ercolano
+tournament_Essen Masters
+tournament_Estoril
+tournament_Fergana
+tournament_Finland
+tournament_Florence
+tournament_Forest Hills
+tournament_Forest Hills WCT
+tournament_Forli
+tournament_French Club
+tournament_Geneva
+tournament_Gijon
+tournament_Granby
+tournament_Grand Slam Cup
+tournament_Great Ocean Road Open
+tournament_Gstaad
+tournament_Guadalajara
+tournament_Guangzhou
+tournament_Guayaquil
+tournament_Gwangju
+tournament_Halle
+tournament_Hamburg
+tournament_Hamburg Masters
+tournament_Hangzhou
+tournament_Helsinki
+tournament_Ho Chi Minh City
+tournament_Hong Kong
+tournament_Hopman Cup
+tournament_Houston
+tournament_Ilkey
+tournament_Ilkley
+tournament_Indian Wells
+tournament_Indian Wells Masters
+tournament_Indianapolis
+tournament_Ismaning
+tournament_Istanbul
+tournament_Itajai
+tournament_Izmir
+tournament_Kaohsiung
+tournament_Karlsruhe
+tournament_Karshi
+tournament_Kitzbuhel
+tournament_Knoxville
+tournament_Kobe
+tournament_Koblenz
+tournament_Kooyong Classic
+tournament_Kuala Lumpur
+tournament_Las Vegas
+tournament_Launceston
+tournament_Laver Cup
+tournament_Leon
+tournament_Lexington
+tournament_Liberec
+tournament_Lille
+tournament_Lima
+tournament_Lincoln
+tournament_Little Rock
+tournament_Long Island
+tournament_Los Angeles
+tournament_Los Cabos
+tournament_Luedenscheid
+tournament_Lugano
+tournament_Lyon
+tournament_Madrid
+tournament_Madrid Masters
+tournament_Maia
+tournament_Manama
+tournament_Manerbio
+tournament_Manila
+tournament_Marbella
+tournament_Marrakech
+tournament_Marseille
+tournament_Masters
+tournament_Masters Cup
+tournament_Maui
+tournament_Meerbusch
+tournament_Melbourne
+tournament_Memphis
+tournament_Metz
+tournament_Miami
+tournament_Miami Masters
+tournament_Milan
+tournament_Mohammedia
+tournament_Mons
+tournament_Monte Carlo
+tournament_Monte Carlo Masters
+tournament_Montemar
+tournament_Monterrey
+tournament_Montevideo
+tournament_Montpellier
+tournament_Moscow
+tournament_Mouilleron
+tournament_Mouilleron Le Captif
+tournament_Munich
+tournament_Murcia
+tournament_Naples
+tournament_Napoli
+tournament_New Haven
+tournament_New York
+tournament_Newport
+tournament_Newport Beach
+tournament_NextGen Finals
+tournament_Nice
+tournament_Nonthaburi
+tournament_Nottingham
+tournament_Noumea
+tournament_Oeiras
+tournament_Olympics
+tournament_Orlando
+tournament_Orleans
+tournament_Ortisei
+tournament_Ostrava
+tournament_Padova
+tournament_Palermo
+tournament_Panama City
+tournament_Paris
+tournament_Paris Masters
+tournament_Paris Olympics
+tournament_Pau
+tournament_Pepsi Grand Slam
+tournament_Pereira
+tournament_Perugia
+tournament_Philadelphia
+tournament_Poznan
+tournament_Prague
+tournament_Prostejov
+tournament_Puebla
+tournament_Puerto Vallarta
+tournament_Pune
+tournament_Punta Del Este
+tournament_Qingdao
+tournament_Queens Club
+tournament_Quimper
+tournament_Quito
+tournament_Rennes
+tournament_Rimouski
+tournament_Rio de Janeiro
+tournament_Roanne
+tournament_Roland Garros
+tournament_Roland Garros Juniors
+tournament_Rome
+tournament_Rome GA
+tournament_Rome Masters
+tournament_Rotterdam
+tournament_Roverto
+tournament_S Hertogenbosch
+tournament_Sacramento
+tournament_Saint Tropez
+tournament_Samarkand
+tournament_San Benedetto Del Tronto
+tournament_San Diego
+tournament_San Francisco
+tournament_San Jose
+tournament_San Luis Potosi
+tournament_Santiago
+tournament_Santo Domingo
+tournament_Sao Leopoldo
+tournament_Sao Paulo
+tournament_Sassuolo
+tournament_Savannah
+tournament_Scheveningen
+tournament_Scottsdale
+tournament_Segovia
+tournament_Seoul
+tournament_Shanghai
+tournament_Shanghai Masters
+tournament_Shenzhen
+tournament_Shymkent
+tournament_Sibiu
+tournament_Singapore
+tournament_Six Kings Slam
+tournament_Sofia
+tournament_Sophia Antipolis
+tournament_Sopot
+tournament_Split
+tournament_St Anton EXH
+tournament_St Petersburg
+tournament_Stockholm
+tournament_Stockholm Masters
+tournament_Stratton Mountain
+tournament_Stuttgart
+tournament_Stuttgart Classic
+tournament_Stuttgart Indoor
+tournament_Stuttgart Masters
+tournament_Stuttgart Outdoor
+tournament_Suntory Cup
+tournament_Surbiton
+tournament_Sydney
+tournament_Sydney Indoor
+tournament_Szczecin
+tournament_Szekesfehervar
+tournament_Taipei
+tournament_Tel Aviv
+tournament_Temuco
+tournament_Tenerife
+tournament_The Hague
+tournament_Tiburon
+tournament_Tigre
+tournament_Tokyo
+tournament_Tokyo Indoor
+tournament_Tokyo Olympics
+tournament_Tokyo Outdoor
+tournament_Tour Finals
+tournament_Toyota
+tournament_Tulln
+tournament_US Open
+tournament_USA
+tournament_Umag
+tournament_United Cup
+tournament_Valencia
+tournament_Verona
+tournament_Vicenza
+tournament_Vienna
+tournament_Villa Maria
+tournament_Villena
+tournament_Vilnius
+tournament_Washington
+tournament_Wembley
+tournament_Wimbledon
+tournament_Wimbledon Juniors
+tournament_Winnetka
+tournament_Winnipeg
+tournament_Winston Salem
+tournament_Wroclaw
+tournament_Yokkaichi
+tournament_Yokohama
+tournament_Young Masters
+tournament_Zadar
+tournament_Zagreb
+tournament_Zhangjiagang
+tournament_Zhuhai
+surface_unknown
+serve_type_0
+serve_type_4
+serve_type_5
+serve_type_6
+serve_type_g
+first_serve_type_0
+first_serve_type_4
+first_serve_type_5
+first_serve_type_6
+first_serve_type_Unknown
+first_serve_type_g
+shot_1_type_&
+shot_1_type_1
+shot_1_type_2
+shot_1_type_3
+shot_1_type_7
+shot_1_type_Unknown
+shot_1_type_b
+shot_1_type_e
+shot_1_type_f
+shot_1_type_h
+shot_1_type_i
+shot_1_type_l
+shot_1_type_m
+shot_1_type_o
+shot_1_type_q
+shot_1_type_r
+shot_1_type_s
+shot_1_type_t
+shot_1_type_u
+shot_1_type_v
+shot_1_type_w
+shot_1_type_y
+shot_1_type_z
+shot_1_direction_-1.0
+shot_1_direction_0.0
+shot_1_direction_1.0
+shot_1_direction_2.0
+shot_1_direction_3.0
+shot_1_depth_-1.0
+shot_1_depth_0.0
+shot_1_depth_7.0
+shot_1_depth_8.0
+shot_1_depth_9.0
+shot_2_type_Unknown
+shot_2_type_b
+shot_2_type_f
+shot_2_type_h
+shot_2_type_i
+shot_2_type_j
+shot_2_type_k
+shot_2_type_l
+shot_2_type_m
+shot_2_type_o
+shot_2_type_p
+shot_2_type_q
+shot_2_type_r
+shot_2_type_s
+shot_2_type_t
+shot_2_type_u
+shot_2_type_v
+shot_2_type_y
+shot_2_type_z
+shot_2_direction_-1.0
+shot_2_direction_0.0
+shot_2_direction_1.0
+shot_2_direction_2.0
+shot_2_direction_3.0
+shot_2_depth_-1.0
+shot_2_depth_0.0
+shot_2_depth_7.0
+shot_2_depth_8.0
+shot_2_depth_9.0
+shot_3_type_Unknown
+shot_3_type_b
+shot_3_type_f
+shot_3_type_h
+shot_3_type_i
+shot_3_type_j
+shot_3_type_k
+shot_3_type_l
+shot_3_type_m
+shot_3_type_o
+shot_3_type_p
+shot_3_type_q
+shot_3_type_r
+shot_3_type_s
+shot_3_type_t
+shot_3_type_u
+shot_3_type_v
+shot_3_type_y
+shot_3_type_z
+shot_3_direction_-1.0
+shot_3_direction_0.0
+shot_3_direction_1.0
+shot_3_direction_2.0
+shot_3_direction_3.0
+shot_3_depth_-1.0
+shot_3_depth_0.0
+shot_3_depth_7.0
+shot_3_depth_8.0
+shot_3_depth_9.0
+last_shot_type_&
+last_shot_type_3
+last_shot_type_Unknown
+last_shot_type_b
+last_shot_type_f
+last_shot_type_h
+last_shot_type_i
+last_shot_type_j
+last_shot_type_k
+last_shot_type_l
+last_shot_type_m
+last_shot_type_o
+last_shot_type_p
+last_shot_type_q
+last_shot_type_r
+last_shot_type_s
+last_shot_type_t
+last_shot_type_u
+last_shot_type_v
+last_shot_type_y
+last_shot_type_z
+shot_4_type_Unknown
+shot_4_type_b
+shot_4_type_f
+shot_4_type_h
+shot_4_type_i
+shot_4_type_j
+shot_4_type_k
+shot_4_type_l
+shot_4_type_m
+shot_4_type_o
+shot_4_type_p
+shot_4_type_q
+shot_4_type_r
+shot_4_type_s
+shot_4_type_t
+shot_4_type_u
+shot_4_type_v
+shot_4_type_y
+shot_4_type_z
+shot_4_direction_-1.0
+shot_4_direction_0.0
+shot_4_direction_1.0
+shot_4_direction_2.0
+shot_4_direction_3.0
+shot_4_depth_-1.0
+shot_4_depth_0.0
+shot_4_depth_7.0
+shot_4_depth_8.0
+shot_4_depth_9.0
+shot_5_type_Unknown
+shot_5_type_b
+shot_5_type_f
+shot_5_type_h
+shot_5_type_i
+shot_5_type_j
+shot_5_type_k
+shot_5_type_l
+shot_5_type_m
+shot_5_type_o
+shot_5_type_p
+shot_5_type_q
+shot_5_type_r
+shot_5_type_s
+shot_5_type_t
+shot_5_type_u
+shot_5_type_v
+shot_5_type_y
+shot_5_type_z
+shot_5_direction_-1.0
+shot_5_direction_0.0
+shot_5_direction_1.0
+shot_5_direction_2.0
+shot_5_direction_3.0
+shot_5_depth_-1.0
+shot_5_depth_0.0
+shot_5_depth_7.0
+shot_5_depth_8.0
+shot_5_depth_9.0
