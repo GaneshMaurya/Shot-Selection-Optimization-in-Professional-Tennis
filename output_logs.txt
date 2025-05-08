@@ -1,0 +1,270 @@
+Transformers - Results:
+
+Loading dataset...
+Dataset loaded with 991359 rows and 41 columns
+After cleaning, dataset has 960585 rows
+Converting categorical columns to strings...
+Column serve_type data types: {<class 'int'>: 540242, <class 'str'>: 420343}
+Column serve_type unique values: [4 5 6 0 '4' '5' '6' '0' 'g']
+Column shot_1_type data types: {<class 'str'>: 960585}
+Column shot_1_type unique values: ['b' 'f' 'r' 's' 'None' 'm' 'u' 'l' 'q' 'y' 'i' 't' 'w' '3' 'h' 'v' 'o'
+ '7' '2' '1' 'z' 'e' '&']
+Column shot_2_type data types: {<class 'str'>: 960585}
+Column shot_2_type unique values: ['b' 'f' 'None' 'z' 's' 'v' 'u' 'h' 'j' 'y' 't' 'r' 'o' 'i' 'm' 'k' 'l'
+ 'p' 'q']
+Column shot_3_type data types: {<class 'str'>: 960585}
+Column shot_3_type unique values: ['b' 'None' 'f' 'm' 's' 'l' 'r' 'y' 'i' 'z' 'v' 'u' 'p' 'h' 'j' 'o' 't'
+ 'q' 'k']
+Column shot_4_type data types: {<class 'str'>: 960585}
+Column shot_4_type unique values: ['None' 'b' 'i' 'f' 'o' 'v' 'z' 'r' 'h' 's' 'm' 'y' 'u' 't' 'l' 'j' 'k'
+ 'q' 'p']
+Column shot_5_type data types: {<class 'str'>: 960585}
+Column shot_5_type unique values: ['None' 'b' 'i' 'f' 'm' 'z' 'v' 's' 'o' 'r' 'l' 'j' 'u' 'y' 't' 'h' 'q'
+ 'k' 'p']
+Column last_shot_type data types: {<class 'str'>: 960585}
+Column last_shot_type unique values: ['b' 'f' 'r' 'i' 'o' 's' 'v' 'None' 'z' 'u' 'm' 'l' 'j' 'y' 't' 'k' 'h'
+ 'p' 'q' '3' '&']
+Data types after conversion:
+Column serve_type data type: object
+Column shot_1_type data type: object
+Column shot_2_type data type: object
+Column shot_3_type data type: object
+Column shot_4_type data type: object
+Column shot_5_type data type: object
+Column last_shot_type data type: object
+Class distribution: {'Forced Error': 308713, 'Unforced Error': 338515, 'Winner': 313357}
+Training set: 768468 samples, Test set: 192117 samples
+Model initialized with 76227 parameters
+Starting training...
+Epoch 1/50, Train Loss: 0.6618, Val Loss: 0.6215
+Epoch 2/50, Train Loss: 0.6216, Val Loss: 0.6089
+Epoch 3/50, Train Loss: 0.6125, Val Loss: 0.6151
+Epoch 4/50, Train Loss: 0.6073, Val Loss: 0.6014
+Epoch 5/50, Train Loss: 0.6045, Val Loss: 0.6003
+Epoch 6/50, Train Loss: 0.6023, Val Loss: 0.5992
+Epoch 7/50, Train Loss: 0.6010, Val Loss: 0.5968
+Epoch 8/50, Train Loss: 0.6000, Val Loss: 0.5969
+Epoch 9/50, Train Loss: 0.5988, Val Loss: 0.5945
+Epoch 10/50, Train Loss: 0.5984, Val Loss: 0.5947
+Epoch 11/50, Train Loss: 0.5977, Val Loss: 0.5945
+Epoch 12/50, Train Loss: 0.5968, Val Loss: 0.5944
+Epoch 13/50, Train Loss: 0.5963, Val Loss: 0.5923
+Epoch 14/50, Train Loss: 0.5959, Val Loss: 0.5952
+Epoch 15/50, Train Loss: 0.5953, Val Loss: 0.5959
+Epoch 16/50, Train Loss: 0.5945, Val Loss: 0.5956
+Epoch 17/50, Train Loss: 0.5946, Val Loss: 0.5926
+Epoch 18/50, Train Loss: 0.5901, Val Loss: 0.5907
+Epoch 19/50, Train Loss: 0.5889, Val Loss: 0.5894
+Epoch 20/50, Train Loss: 0.5888, Val Loss: 0.5888
+Epoch 21/50, Train Loss: 0.5885, Val Loss: 0.5893
+Epoch 22/50, Train Loss: 0.5878, Val Loss: 0.5920
+Epoch 23/50, Train Loss: 0.5875, Val Loss: 0.5917
+Epoch 24/50, Train Loss: 0.5874, Val Loss: 0.5921
+Epoch 25/50, Train Loss: 0.5852, Val Loss: 0.5878
+Epoch 26/50, Train Loss: 0.5850, Val Loss: 0.5877
+Epoch 27/50, Train Loss: 0.5846, Val Loss: 0.5849
+Epoch 28/50, Train Loss: 0.5841, Val Loss: 0.5867
+Epoch 29/50, Train Loss: 0.5840, Val Loss: 0.5871
+Epoch 30/50, Train Loss: 0.5839, Val Loss: 0.5852
+Epoch 31/50, Train Loss: 0.5840, Val Loss: 0.5875
+Epoch 32/50, Train Loss: 0.5824, Val Loss: 0.5856
+Early stopping triggered
+Evaluating model...
+
+Classification Report:
+                precision    recall  f1-score   support
+
+  Forced Error       0.84      0.70      0.76     61743
+Unforced Error       0.65      0.80      0.71     67703
+        Winner       0.78      0.71      0.74     62671
+
+      accuracy                           0.74    192117
+     macro avg       0.76      0.74      0.74    192117
+  weighted avg       0.75      0.74      0.74    192117
+
+
+MLP - Results
+
+Loading dataset...
+Dataset loaded with 991359 rows and 41 columns
+After cleaning, dataset has 960585 rows
+Class distribution: {'Forced Error': 308713, 'Unforced Error': 338515, 'Winner': 313357}
+Training set: 768468 samples, Test set: 192117 samples
+
+Training mlp model...
+[mlp] Epoch 1/50, Train Loss: 0.6724, Val Loss: 0.6343
+[mlp] Epoch 2/50, Train Loss: 0.6438, Val Loss: 0.6235
+[mlp] Epoch 3/50, Train Loss: 0.6372, Val Loss: 0.6114
+[mlp] Epoch 4/50, Train Loss: 0.6290, Val Loss: 0.6061
+[mlp] Epoch 5/50, Train Loss: 0.6242, Val Loss: 0.5996
+[mlp] Epoch 6/50, Train Loss: 0.6207, Val Loss: 0.5982
+[mlp] Epoch 7/50, Train Loss: 0.6181, Val Loss: 0.5981
+[mlp] Epoch 8/50, Train Loss: 0.6173, Val Loss: 0.5968
+[mlp] Epoch 9/50, Train Loss: 0.6142, Val Loss: 0.5930
+[mlp] Epoch 10/50, Train Loss: 0.6133, Val Loss: 0.5938
+[mlp] Epoch 11/50, Train Loss: 0.6117, Val Loss: 0.5933
+[mlp] Epoch 12/50, Train Loss: 0.6105, Val Loss: 0.5931
+[mlp] Epoch 13/50, Train Loss: 0.6107, Val Loss: 0.5909
+[mlp] Epoch 14/50, Train Loss: 0.6101, Val Loss: 0.5911
+[mlp] Epoch 15/50, Train Loss: 0.6093, Val Loss: 0.5898
+[mlp] Epoch 16/50, Train Loss: 0.6079, Val Loss: 0.5902
+[mlp] Epoch 17/50, Train Loss: 0.6074, Val Loss: 0.5903
+[mlp] Epoch 18/50, Train Loss: 0.6069, Val Loss: 0.5890
+[mlp] Epoch 19/50, Train Loss: 0.6064, Val Loss: 0.5913
+[mlp] Epoch 20/50, Train Loss: 0.6076, Val Loss: 0.5881
+[mlp] Epoch 21/50, Train Loss: 0.6069, Val Loss: 0.5876
+[mlp] Epoch 22/50, Train Loss: 0.6060, Val Loss: 0.5878
+[mlp] Epoch 23/50, Train Loss: 0.6059, Val Loss: 0.5888
+[mlp] Epoch 24/50, Train Loss: 0.6058, Val Loss: 0.5885
+[mlp] Epoch 25/50, Train Loss: 0.6056, Val Loss: 0.5896
+[mlp] Epoch 26/50, Train Loss: 0.6027, Val Loss: 0.5861
+[mlp] Epoch 27/50, Train Loss: 0.6010, Val Loss: 0.5842
+[mlp] Epoch 28/50, Train Loss: 0.6004, Val Loss: 0.5847
+[mlp] Epoch 29/50, Train Loss: 0.6001, Val Loss: 0.5877
+[mlp] Epoch 30/50, Train Loss: 0.6009, Val Loss: 0.5862
+[mlp] Epoch 31/50, Train Loss: 0.6005, Val Loss: 0.5846
+[mlp] Epoch 32/50, Train Loss: 0.5973, Val Loss: 0.5826
+[mlp] Epoch 33/50, Train Loss: 0.5968, Val Loss: 0.5824
+[mlp] Epoch 34/50, Train Loss: 0.5971, Val Loss: 0.5828
+[mlp] Epoch 35/50, Train Loss: 0.5967, Val Loss: 0.5826
+[mlp] Epoch 36/50, Train Loss: 0.5963, Val Loss: 0.5824
+[mlp] Epoch 37/50, Train Loss: 0.5958, Val Loss: 0.5831
+[mlp] Epoch 38/50, Train Loss: 0.5957, Val Loss: 0.5820
+[mlp] Epoch 39/50, Train Loss: 0.5959, Val Loss: 0.5825
+[mlp] Epoch 40/50, Train Loss: 0.5956, Val Loss: 0.5828
+[mlp] Epoch 41/50, Train Loss: 0.5955, Val Loss: 0.5830
+[mlp] Epoch 42/50, Train Loss: 0.5954, Val Loss: 0.5829
+[mlp] Epoch 43/50, Train Loss: 0.5948, Val Loss: 0.5821
+[mlp] Early stopping triggered
+
+[mlp] Classification Report:
+                precision    recall  f1-score   support
+
+  Forced Error       0.83      0.70      0.76     61743
+Unforced Error       0.65      0.79      0.71     67703
+        Winner       0.77      0.71      0.74     62671
+
+      accuracy                           0.74    192117
+     macro avg       0.75      0.73      0.74    192117
+  weighted avg       0.75      0.74      0.74    192117
+
+
+[mlp] Precision-Recall Analysis:
+Forced Error: Precision=0.6311, Recall=0.8368, Class Freq=0.3214
+Unforced Error: Precision=0.6467, Recall=0.7215, Class Freq=0.3524
+Winner: Precision=0.6429, Recall=0.8001, Class Freq=0.3262
+
+
+LSTM - Results
+
+Loading dataset...
+Dataset loaded with 991359 rows and 41 columns
+After cleaning, dataset has 960585 rows
+Class distribution: {'Forced Error': 308713, 'Unforced Error': 338515, 'Winner': 313357}
+Training set: 768468 samples, Test set: 192117 samples
+
+Training lstm model...
+[lstm] Epoch 1/50, Train Loss: 0.6701, Val Loss: 0.6348
+[lstm] Epoch 2/50, Train Loss: 0.6347, Val Loss: 0.6147
+[lstm] Epoch 3/50, Train Loss: 0.6198, Val Loss: 0.6056
+[lstm] Epoch 4/50, Train Loss: 0.6128, Val Loss: 0.5987
+[lstm] Epoch 5/50, Train Loss: 0.6072, Val Loss: 0.5941
+[lstm] Epoch 6/50, Train Loss: 0.6029, Val Loss: 0.5912
+[lstm] Epoch 7/50, Train Loss: 0.5991, Val Loss: 0.5874
+[lstm] Epoch 8/50, Train Loss: 0.5969, Val Loss: 0.5854
+[lstm] Epoch 9/50, Train Loss: 0.5948, Val Loss: 0.5835
+[lstm] Epoch 10/50, Train Loss: 0.5937, Val Loss: 0.5837
+[lstm] Epoch 11/50, Train Loss: 0.5920, Val Loss: 0.5830
+[lstm] Epoch 12/50, Train Loss: 0.5909, Val Loss: 0.5814
+[lstm] Epoch 13/50, Train Loss: 0.5900, Val Loss: 0.5803
+[lstm] Epoch 14/50, Train Loss: 0.5892, Val Loss: 0.5797
+[lstm] Epoch 15/50, Train Loss: 0.5884, Val Loss: 0.5787
+[lstm] Epoch 16/50, Train Loss: 0.5880, Val Loss: 0.5795
+[lstm] Epoch 17/50, Train Loss: 0.5871, Val Loss: 0.5783
+[lstm] Epoch 18/50, Train Loss: 0.5870, Val Loss: 0.5779
+[lstm] Epoch 19/50, Train Loss: 0.5863, Val Loss: 0.5784
+[lstm] Epoch 20/50, Train Loss: 0.5861, Val Loss: 0.5779
+[lstm] Epoch 21/50, Train Loss: 0.5854, Val Loss: 0.5777
+[lstm] Epoch 22/50, Train Loss: 0.5853, Val Loss: 0.5774
+[lstm] Epoch 23/50, Train Loss: 0.5851, Val Loss: 0.5769
+[lstm] Epoch 24/50, Train Loss: 0.5850, Val Loss: 0.5768
+[lstm] Epoch 25/50, Train Loss: 0.5842, Val Loss: 0.5764
+[lstm] Epoch 26/50, Train Loss: 0.5841, Val Loss: 0.5767
+[lstm] Epoch 27/50, Train Loss: 0.5840, Val Loss: 0.5759
+[lstm] Epoch 28/50, Train Loss: 0.5836, Val Loss: 0.5769
+[lstm] Epoch 29/50, Train Loss: 0.5834, Val Loss: 0.5766
+[lstm] Epoch 30/50, Train Loss: 0.5833, Val Loss: 0.5766
+[lstm] Epoch 31/50, Train Loss: 0.5832, Val Loss: 0.5768
+[lstm] Epoch 32/50, Train Loss: 0.5811, Val Loss: 0.5744
+[lstm] Epoch 33/50, Train Loss: 0.5804, Val Loss: 0.5746
+[lstm] Epoch 34/50, Train Loss: 0.5802, Val Loss: 0.5747
+[lstm] Epoch 35/50, Train Loss: 0.5800, Val Loss: 0.5743
+[lstm] Epoch 36/50, Train Loss: 0.5803, Val Loss: 0.5745
+[lstm] Epoch 37/50, Train Loss: 0.5798, Val Loss: 0.5744
+[lstm] Epoch 38/50, Train Loss: 0.5797, Val Loss: 0.5740
+[lstm] Epoch 39/50, Train Loss: 0.5799, Val Loss: 0.5746
+[lstm] Epoch 40/50, Train Loss: 0.5797, Val Loss: 0.5743
+[lstm] Epoch 41/50, Train Loss: 0.5798, Val Loss: 0.5746
+[lstm] Epoch 42/50, Train Loss: 0.5795, Val Loss: 0.5740
+[lstm] Epoch 43/50, Train Loss: 0.5786, Val Loss: 0.5732
+[lstm] Epoch 44/50, Train Loss: 0.5779, Val Loss: 0.5731
+[lstm] Epoch 45/50, Train Loss: 0.5780, Val Loss: 0.5732
+[lstm] Epoch 46/50, Train Loss: 0.5780, Val Loss: 0.5733
+[lstm] Epoch 47/50, Train Loss: 0.5779, Val Loss: 0.5741
+[lstm] Epoch 48/50, Train Loss: 0.5779, Val Loss: 0.5731
+[lstm] Epoch 49/50, Train Loss: 0.5772, Val Loss: 0.5729
+[lstm] Epoch 50/50, Train Loss: 0.5770, Val Loss: 0.5728
+
+[lstm] Classification Report:
+                precision    recall  f1-score   support
+
+  Forced Error       0.82      0.72      0.77     61743
+Unforced Error       0.66      0.76      0.71     67703
+        Winner       0.77      0.73      0.75     62671
+
+      accuracy                           0.74    192117
+     macro avg       0.75      0.74      0.74    192117
+  weighted avg       0.75      0.74      0.74    192117
+
+
+[lstm] Precision-Recall Analysis:
+Forced Error: Precision=0.6329, Recall=0.8388, Class Freq=0.3214
+Unforced Error: Precision=0.6503, Recall=0.7220, Class Freq=0.3524
+Winner: Precision=0.6455, Recall=0.7996, Class Freq=0.3262
+
+
+XGBoost - Results
+
+Loading dataset...
+Dataset loaded with 991359 rows and 41 columns
+After cleaning, dataset has 960585 rows
+Class distribution: {'Forced Error': 308713, 'Unforced Error': 338515, 'Winner': 313357}
+Training set: 768468 samples, Test set: 192117 samples
+Testing dataset saved to model_outputs/test_dataset.csv
+
+Training XGBoost model...
+Best XGBoost parameters: {'subsample': 0.8, 'n_estimators': 300, 'max_depth': 7, 'learning_rate': 0.1, 'colsample_bytree': 0.8}
+
+Top 5 important features:
+is_second_serve: 0.2752
+last_shot_depth: 0.1409
+last_shot_type: 0.1064
+last_shot_direction: 0.0842
+shot_2_direction: 0.0802
+
+[xgboost] Classification Report:
+                precision    recall  f1-score   support
+
+  Forced Error       0.84      0.72      0.77     61743
+Unforced Error       0.65      0.79      0.71     67703
+        Winner       0.78      0.72      0.75     62671
+
+      accuracy                           0.74    192117
+     macro avg       0.76      0.74      0.74    192117
+  weighted avg       0.75      0.74      0.74    192117
+
+
+[xgboost] Precision-Recall Analysis:
+Forced Error: Precision=0.6361, Recall=0.8405, Class Freq=0.3214
+Unforced Error: Precision=0.6523, Recall=0.7238, Class Freq=0.3524
+Winner: Precision=0.6481, Recall=0.8008, Class Freq=0.3262
